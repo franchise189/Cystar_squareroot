@@ -8,15 +8,15 @@ using namespace std;
 
 {
     int main()
-    int n;
+    float number;
 
-    float squreroot;
+    int squareroot;
 
     cout<<"Enter squareroot:";
 
     cin>>squareroot;
 
-    squreroot=squareroot/n;
+    squareroot=squareroot/n;
 
     cout<<"number is:";
 
