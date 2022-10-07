@@ -8,17 +8,17 @@ using namespace std;
 
 {
     int main()
-    int number;
+    int n;
 
     float squreroot;
 
-    cout<<"Enter number:";
+    cout<<"Enter squareroot:";
 
-    cin>>number;
+    cin>>squareroot;
 
-    squreroot=number*number;
+    squreroot=squareroot/n;
 
-    cout<<"squreroot is:";
+    cout<<"number is:";
 
     cin>>squreroot;
 
