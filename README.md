@@ -1,1 +1,1 @@
-method: square root program using sqrt function
+program to calculate square root
